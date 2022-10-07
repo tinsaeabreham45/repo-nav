@@ -9,13 +9,7 @@ header{
     text-align: center;
     color: white;
 }
-div{
-    position: fixed;
-    width: 100%;
- color: black;
-    margin-top: 10%;
-    font-size: larger;
-}
+
 
 nav{
     background: #103737;
